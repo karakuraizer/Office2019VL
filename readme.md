@@ -31,7 +31,7 @@ cscript ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP
 ```
 cscript ospp.vbs /inpkey:6NWWJ-YQWMR-QKGCB-6TMB3-9D9HK
 ```
-^^^^ for Standart 2019
+^^^^ for Standart 2019 and finally...
 ```
 cscript ospp.vbs /act
 ```
