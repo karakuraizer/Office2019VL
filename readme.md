@@ -6,7 +6,7 @@ Modify the office_vol.xml file according to your needs.
 
 Support for installing Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word, Visio.
 
-You can use [this](https://config.office.com/deploymentsettings) to generate a new configuration file, or manually modify the `Office2019VL-Std.xml \ OfficeProPlus2019-VL.xml` file, the default installation word, excel and PowerPoint.
+You can use [this](https://config.office.com/deploymentsettings) to generate a new configuration file, or manually modify the `Office2019VL-Std.xml \ OfficeProPlus2019-VL.xml` file, the default installation word, excel and PowerPoint...
 
 ## Download & Install
 
