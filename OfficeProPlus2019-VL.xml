@@ -7,7 +7,7 @@
      The following sample allows you to download and install the 64 bit version of the Office 365 ProPlus apps
      and Visio Pro for Office 365 directly from the Office CDN using the Monthly Channel
      settings  -->
-
+     
 <Configuration>
 
   <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
